@@ -2,14 +2,65 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/dotnet/lsharp/build.sh" timestamp="1521215680977">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/dotnet/lsharp/src/lsharp.lib/Reader.fsx" timestamp="1521215849395">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="50" />
+      </file>
+      <file name="/Plain text Console" timestamp="1521215771911">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>(readAll str)</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAucGFrZXQvcGFrZXQuZXhlCiAgZXhpdF9jb2RlPSQ/CiAgaWYgWyAkZXhpdF9jb2RlIC1uZSAwIF07IHRoZW4KICAJZXhpdCAkZXhpdF9jb2RlCiAgZmkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtb25vIC5wYWtldC9wYWtldC5leGUKICBleGl0X2NvZGU9JD8KICBpZiBbICRleGl0X2NvZGUgLW5lIDAgXTsgdGhlbgogIAlleGl0ICRleGl0X2NvZGUKICBmaQoK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>(readAll str)</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
